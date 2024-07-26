@@ -141,4 +141,3 @@ Updates the details of a song in the `playlist` based on the `songId`. If the gi
 
 Deletes a song from the `playlist`  based on the `songId`. If the given `songId` is not found in the `playlist`, raise `ResponseStatusException` with `HttpStatus.NOT_FOUND`.
 
-**Do not modify the code in the `SongApplication.java`.**
